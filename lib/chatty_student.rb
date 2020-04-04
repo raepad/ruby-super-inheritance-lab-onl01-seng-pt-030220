@@ -9,6 +9,6 @@ class ChattyStudent
     super.times(10)
     puts "Pick me!"
     
-  
+  end
   
 end
